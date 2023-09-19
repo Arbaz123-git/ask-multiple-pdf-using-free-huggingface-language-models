@@ -46,6 +46,6 @@ To use the MultiPDF Chat App , follow these steps
 4. Load multiple PDF documents into the app by following the provided instructions.(File upload will be depend on your system memory ; more memory more files you can load and less memory then small and less file you can load)
 
 5. Ask questions in natural language about the loaded PDFs using the chat interface.  
-6. 
+
 
 NOTE : IF YOU HAVE OPENAI API KEY SUBSCRIPTION THEN YOU CAN MAKE THIS PROJECT WITH OPENAI IF YOU DONT HAVE USE HUGGINGFACE LLMs.
