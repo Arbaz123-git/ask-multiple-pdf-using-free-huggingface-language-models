@@ -1,3 +1,6 @@
+Project reference : Youtube Channel Alejandro AO - Software & Ai
+Video Link : https://www.youtube.com/watch?v=dXxQ0LR-3Hg
+
 # ask-multiple-pdf-using-free-huggingface-language-models
 
 Creating a Langchain App to chat with multiple PDF files using the Huggingface Language Models and as well as with ChatGPT API 
